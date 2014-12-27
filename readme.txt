@@ -1,2 +1,2 @@
 git is good!
-free software!
+free softwar!
