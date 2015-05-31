@@ -1,2 +1,1 @@
-git is good!
-free software!
+lol
