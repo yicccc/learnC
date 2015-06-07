@@ -5,4 +5,4 @@ void _itoa?_(int i,char* buf){
   char* buff[2];
   sprintf(buff , "%d" , p);
   strcat(buf,buff);
-} // 和最初的想法有些差别  这个函数输入一个整数 和存储区指针，则把整数的倒序生成字符串放入存储区
+} // 为何会崩溃
